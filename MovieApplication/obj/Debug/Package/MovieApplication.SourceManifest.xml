@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\KHY4MKS\Documents\UPS_Work_notes\VS17_Practice\Projects\MovieApp\MovieApplication\MovieApplication\obj\Debug\Package\PackageTmp" />
+  <setAcl path="C:\Users\KHY4MKS\Documents\UPS_Work_notes\VS17_Practice\Projects\MovieApp\MovieApplication\MovieApplication\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\KHY4MKS\Documents\UPS_Work_notes\VS17_Practice\Projects\MovieApp\MovieApplication\MovieApplication\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
